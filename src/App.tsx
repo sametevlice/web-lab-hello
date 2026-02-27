@@ -1,0 +1,19 @@
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
+
+function App() {
+  return (
+    <div>
+      <h1>Web Tasarımı ve Programlama</h1>
+      <h2>LAB-1</h2>
+      <p>Ad Soyad: Abdülsamet Evlice</p>
+      <p>Öğrenci No: 230541003 </p>
+      <p>Bölüm: Yazılım Mühendisliği</p>
+      <p>Hobilerim: Dizi-Film İzlemek</p>
+    </div>
+  )
+}
+
+export default App
