@@ -12,6 +12,7 @@ function App() {
       <p>Öğrenci No: 230541003 </p>
       <p>Bölüm: Yazılım Mühendisliği</p>
       <p>Hobilerim: Dizi-Film İzlemek</p>
+      <p>Bu proje React + TypeScript ile geliştirildi.</p>
     </div>
   )
 }
