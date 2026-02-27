@@ -21,5 +21,4 @@ npm run dev
 
 Tarayıcıda: http://localhost:5173
 
-Geliştirici
-Abdülsamet Evlice
+
