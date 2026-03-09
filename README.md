@@ -26,13 +26,13 @@ Tarayıcıda: http://localhost:5173
 
 ### Ekran Görüntüleri (Screenshots)
 #### Mobile (375px)
-![Mobile Screenshot](./screenshots/screenshot-mobile.png)
+![Mobile Screenshot](./src/screenshots/screenshot-mobile.png)
 
 #### Tablet (768px)
-![Tablet Screenshot](./screenshots/screenshot-tablet.png)
+![Tablet Screenshot](./src/screenshots/screenshot-tablet.png)
 
 #### Desktop (1280px)
-![Desktop Screenshot](./screenshots/screenshot-desktop.png)
+![Desktop Screenshot](./src/screenshots/screenshot-desktop.png)
 
 
 ### CSS Kararları
